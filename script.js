@@ -1,0 +1,1 @@
+console.log("DUNGAKNO KENEK ANJING")
